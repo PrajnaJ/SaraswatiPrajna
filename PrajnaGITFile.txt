@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 First commit with data
-
-Testing
-=======
-First commit with data
->>>>>>> 4299d0c5b658b0902f1b084cd2c955246ba6758a
